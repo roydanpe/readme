@@ -1,0 +1,13 @@
+// programando una calculadora
+import java.util.*;
+public class Calculadora{
+  public static double sumar (double a ,double b  ){
+      double c = a + b ;
+      return c ;
+
+  }
+  public static int sumar (double q ,double p  ){
+      double r = q * p ;
+      return r;
+  }
+ 
